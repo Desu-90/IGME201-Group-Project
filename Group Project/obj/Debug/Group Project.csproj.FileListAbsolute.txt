@@ -8,3 +8,13 @@ C:\Users\dolme\source\repos\Desu-90\myIGME-201\Group Project\obj\Debug\Group Pro
 C:\Users\dolme\source\repos\Desu-90\myIGME-201\Group Project\obj\Debug\Group Project.csproj.CoreCompileInputs.cache
 C:\Users\dolme\source\repos\Desu-90\myIGME-201\Group Project\obj\Debug\Group Project.exe
 C:\Users\dolme\source\repos\Desu-90\myIGME-201\Group Project\obj\Debug\Group Project.pdb
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\bin\Debug\Group Project.exe.config
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\bin\Debug\Group Project.exe
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\bin\Debug\Group Project.pdb
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\obj\Debug\Group Project.csprojAssemblyReference.cache
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\obj\Debug\Group_Project.Form.resources
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\obj\Debug\Group Project.csproj.GenerateResource.cache
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\obj\Debug\Group Project.csproj.CoreCompileInputs.cache
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\obj\Debug\Group Project.exe
+C:\Users\dolme\Source\Repos\Desu-90\IGME201-Group-Project\Group Project\obj\Debug\Group Project.pdb
